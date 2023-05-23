@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Имя Фамилия</title>
+    <title>Коваль Ольга</title>
 </svelte:head>
 
 <div class="container">
@@ -9,11 +9,11 @@
                 <div class="info-text">
                     <h1>
                     <p class="animate-text-1">Персональный сайт,</p>
-                    <p class="text-2">Андрея Кузнецова</p>
+                    <p class="text-2">Коваль Ольги</p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium architecto aut, cupiditate dolores ducimus expedita labore nemo odio quibusdam quidem sapiente soluta.
+                   Добро пожаловать на мой сайт.
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
                     <a href="/about">Узнать обо мне</a><div class="arrow">→</div>
